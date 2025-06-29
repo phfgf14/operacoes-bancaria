@@ -5,7 +5,7 @@ Este projeto é uma aplicação de terminal para operações bancárias básicas
 ## Funcionalidades
 
 - **Depositar:** Permite adicionar valores à conta, desde que positivos.
-- **Sacar:** Permite realizar saques, respeitando o limite de valor por saque e o número máximo de saques diários.
+- **Sacar:** Permite realizar saques, respeitando o limite de valor por saque e o número máximo de saques por sessão.
 - **Visualizar Extrato:** Exibe todas as transações realizadas, total de depósitos, total de saques e saldo atual.
 - **Sair:** Encerra o sistema.
 
@@ -50,6 +50,4 @@ Escolha uma opção:
 
 - Python 3.x
 
----
 
-Desenvolvido para fins
